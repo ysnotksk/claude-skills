@@ -1,5 +1,5 @@
 ---
-name: researcher
+name: researcher-jp
 description: >
   【正引き（研究者名→プロフィール・業績）】
   研究者（科学者・学者）の名前を入力として、その人物のプロフィール（生い立ち・経歴・人となり）と、
